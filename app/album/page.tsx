@@ -13,7 +13,7 @@ export default function AlbumPage() {
     const photos = [
         {
             id: 1,
-            src: '/images/album/foto1.jpg',  // Ganti dengan nama file foto Anda
+            src: '/images/album/p22.jpg',  // Ganti dengan nama file foto Anda
             title: 'Sarasehan Putro 2024',
             description: 'Kegiatan sarasehan tahunan para putro'
         },

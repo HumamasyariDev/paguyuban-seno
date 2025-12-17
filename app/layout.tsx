@@ -11,6 +11,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
     title: 'Paguyuban Penghayat Kapribaden',
     description: 'Website resmi Paguyuban Penghayat Kapribaden - Laku Kasampurnan Manunggal Kinantenan Sarwo Mijil',
+    keywords: ['Kapribaden', 'Paguyuban', 'Romo Herucokro Semono', 'Spiritual', 'Kasampurnan'],
 }
 
 export default function RootLayout({
@@ -19,8 +20,8 @@ export default function RootLayout({
     children: React.ReactNode
 }) {
     return (
-        <html lang="id">
-            <body className={inter.className}>
+        <html lang="id" className="scroll-smooth" suppressHydrationWarning>
+            <body className={`${inter.className} antialiased`} suppressHydrationWarning>
                 <ReadingProgress />
                 <Navbar />
                 <main className="min-h-screen">
