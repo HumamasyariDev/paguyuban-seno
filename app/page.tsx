@@ -84,7 +84,7 @@ export default function Home() {
                 <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <AnimatedSection className="text-center mb-16">
                         <h2 className="text-4xl md:text-5xl font-bold text-kapribaden-purple-900 mb-6">
-                            Tentang Paguyuban
+                            Tentang Paguyuban ini
                         </h2>
                     </AnimatedSection>
 
