@@ -14,7 +14,7 @@ export default function PasaranPage() {
             {/* Tabel Tahun Jawa */}
             <div className="content-section overflow-x-auto">
                 <h2 className="text-center mb-6">TAHUN JAWA</h2>
-                <table className="w-full border-collapse border border-gray-400">
+                <table className="w-full border-collapse border border-gray-400 text-xs sm:text-sm">
                     <thead>
                         <tr className="bg-gray-100">
                             <th className="border border-gray-400 p-2"></th>
@@ -142,162 +142,103 @@ export default function PasaranPage() {
 
             {/* Tabel Baik Buruknya Hari */}
             <div className="content-section overflow-x-auto">
-                <h2 className="text-center mb-6">BAIK BURUKNYA HARI</h2>
+                <h2 className="text-center mb-6 bg-yellow-200 py-2 font-bold">BAIK BURUKNYA HARI</h2>
                 
-                <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
-                    {/* Tabel Pasaran dan Naga Tahun */}
-                    <div>
-                        <table className="w-full border-collapse border border-gray-400 text-sm">
+                <div className="grid grid-cols-1 lg:grid-cols-3 gap-4 mb-6">
+                    {/* Kolom 1: Tabel PASARAN + NAGA TAHUN + NAGA DINO gabungan */}
+                    <div className="space-y-3">
+                        <table className="w-full border-collapse border border-gray-400 text-xs">
                             <thead>
-                                <tr className="bg-gray-100">
-                                    <th className="border border-gray-400 p-2">PASARAN</th>
-                                    <th className="border border-gray-400 p-2">NAGA TAHUN</th>
+                                <tr>
+                                    <th className="border border-gray-400 p-1 bg-yellow-200" colSpan={4}>PASARAN</th>
+                                    <th className="border border-gray-400 p-1 bg-green-200" colSpan={2}>NAGA TAHUN</th>
+                                    <th className="border border-gray-400 p-1 bg-cyan-200" colSpan={6}>NAGA DINO</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr><td className="border border-gray-400 p-2 text-center">X</td><td className="border border-gray-400 p-2 text-center">O</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">O</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">X</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">X</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">X</td><td className="border border-gray-400 p-2 text-center">O</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">X</td><td className="border border-gray-400 p-2 text-center">O</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">X</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">O</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">X</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">4</td><td className="border border-gray-400 p-2 text-center">O</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">O</td><td className="border border-gray-400 p-2 text-center">X</td></tr>
-                                <tr><td className="border border-gray-400 p-2 text-center">X</td><td className="border border-gray-400 p-2 text-center">4</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Suro</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">0</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">8</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Sapar</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Mulud</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center bg-green-50">Bakda Mulut</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">3</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Awal</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">6</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Jumadil Akhir</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">7</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Redjeb</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">6</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center bg-green-50">Ruwah</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Poso</td><td className="border border-gray-400 p-1 text-center">8</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">2</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Syawal</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">8</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center bg-green-50">Selo</td><td className="border border-gray-400 p-1 text-center">3</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">6</td><td className="border border-gray-400 p-1 text-center">9</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
+                                <tr><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">O</td><td className="border border-gray-400 p-1 text-center">X</td><td className="border border-gray-400 p-1 text-center bg-green-50">Besar</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td><td className="border border-gray-400 p-1 text-center">4</td><td className="border border-gray-400 p-1 text-center">7</td><td className="border border-gray-400 p-1 text-center">5</td></tr>
                             </tbody>
                         </table>
-                        
-                        <div className="mt-4 p-3 bg-gray-50 rounded text-xs">
-                            <p className="font-bold mb-2">Keterangan:</p>
-                            <p>W = Wiji</p>
-                            <p>p = Dadi</p>
-                            <p>a = Pati</p>
-                            <p>g = Lutung</p>
-                            <p>e = Apes</p>
-                        </div>
-                    </div>
 
-                    {/* Tabel Naga Dino */}
-                    <div>
-                        <table className="w-full border-collapse border border-gray-400 text-sm">
-                            <thead>
-                                <tr className="bg-gray-100">
-                                    <th className="border border-gray-400 p-2" colSpan={2}>NAGA DINO</th>
-                                </tr>
-                            </thead>
+                        {/* Tabel Halangan Gedong Pangan Kosong */}
+                        <table className="border-collapse border border-gray-400 text-xs">
                             <tbody>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Suro</td>
-                                    <td className="border border-gray-400 p-2 text-center">4</td>
+                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>W<br/>a<br/>g<br/>o<br/>n<br/>e</td>
+                                    <td className="border border-gray-400 p-1 text-center">P</td>
+                                    <td className="border border-gray-400 p-1 text-center">K</td>
+                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>X</td>
+                                    <td className="border border-gray-400 p-1 text-center bg-red-100">Halangan</td>
+                                    <td className="border border-gray-400 p-1 text-center">R</td>
+                                    <td className="border border-gray-400 p-1 text-center">G</td>
+                                    <td className="border border-gray-400 p-1 text-center" rowSpan={6}>W<br/>a<br/>r<br/>i</td>
+                                    <td className="border border-gray-400 p-1 text-center">P</td>
+                                    <td className="border border-gray-400 p-1 text-center">L</td>
+                                    <td className="border border-gray-400 p-1 text-center">J</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Sapar</td>
-                                    <td className="border border-gray-400 p-2 text-center">9</td>
+                                    <td className="border border-gray-400 p-1 text-center">a</td>
+                                    <td className="border border-gray-400 p-1 text-center">l</td>
+                                    <td className="border border-gray-400 p-1 text-center bg-green-100">Gedong</td>
+                                    <td className="border border-gray-400 p-1 text-center">e</td>
+                                    <td className="border border-gray-400 p-1 text-center">u</td>
+                                    <td className="border border-gray-400 p-1 text-center">i</td>
+                                    <td className="border border-gray-400 p-1 text-center">a</td>
+                                    <td className="border border-gray-400 p-1 text-center">o</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Mulud</td>
-                                    <td className="border border-gray-400 p-2 text-center">8</td>
+                                    <td className="border border-gray-400 p-1 text-center">h</td>
+                                    <td className="border border-gray-400 p-1 text-center">i</td>
+                                    <td className="border border-gray-400 p-1 text-center bg-cyan-100">4</td>
+                                    <td className="border border-gray-400 p-1 text-center">s</td>
+                                    <td className="border border-gray-400 p-1 text-center">r</td>
+                                    <td className="border border-gray-400 p-1 text-center">k</td>
+                                    <td className="border border-gray-400 p-1 text-center">l</td>
+                                    <td className="border border-gray-400 p-1 text-center">a</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Bakda Mulut</td>
-                                    <td className="border border-gray-400 p-2 text-center">6</td>
+                                    <td className="border border-gray-400 p-1 text-center">i</td>
+                                    <td className="border border-gray-400 p-1 text-center">w</td>
+                                    <td className="border border-gray-400 p-1 text-center bg-cyan-100">Pangan</td>
+                                    <td className="border border-gray-400 p-1 text-center">u</td>
+                                    <td className="border border-gray-400 p-1 text-center">i</td>
+                                    <td className="border border-gray-400 p-1 text-center">i</td>
+                                    <td className="border border-gray-400 p-1 text-center">o</td>
+                                    <td className="border border-gray-400 p-1 text-center">a</td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Jumadil Awal</td>
-                                    <td className="border border-gray-400 p-2 text-center">9</td>
+                                    <td className="border border-gray-400 p-1 text-center">n</td>
+                                    <td className="border border-gray-400 p-1 text-center">o</td>
+                                    <td className="border border-gray-400 p-1 text-center bg-yellow-100">Kosong</td>
+                                    <td className="border border-gray-400 p-1 text-center">n</td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center">o</td>
+                                    <td className="border border-gray-400 p-1 text-center">s</td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
                                 </tr>
                                 <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Jumadil Akhir</td>
-                                    <td className="border border-gray-400 p-2 text-center">3</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Redjeb</td>
-                                    <td className="border border-gray-400 p-2 text-center">9</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Ruwah</td>
-                                    <td className="border border-gray-400 p-2 text-center">7</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Poso</td>
-                                    <td className="border border-gray-400 p-2 text-center">8</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Syawal</td>
-                                    <td className="border border-gray-400 p-2 text-center">4</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Selo</td>
-                                    <td className="border border-gray-400 p-2 text-center">3</td>
-                                </tr>
-                                <tr>
-                                    <td className="border border-gray-400 p-2 text-center">Besar</td>
-                                    <td className="border border-gray-400 p-2 text-center">7</td>
+                                    <td className="border border-gray-400 p-1 text-center">g</td>
+                                    <td className="border border-gray-400 p-1 text-center">n</td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
+                                    <td className="border border-gray-400 p-1 text-center"></td>
                                 </tr>
                             </tbody>
                         </table>
-                        
-                        <div className="mt-4">
-                            <table className="w-full border-collapse border border-gray-400 text-sm">
-                                <thead>
-                                    <tr className="bg-gray-100">
-                                        <th className="border border-gray-400 p-2" colSpan={5}>Halangan Gedong Pangan Kosong</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">P</td>
-                                        <td className="border border-gray-400 p-2 text-center">K</td>
-                                        <td className="border border-gray-400 p-2 text-center">X</td>
-                                        <td className="border border-gray-400 p-2 text-center">Halangan</td>
-                                        <td className="border border-gray-400 p-2 text-center">R</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">4</td>
-                                        <td className="border border-gray-400 p-2 text-center">L</td>
-                                        <td className="border border-gray-400 p-2 text-center">O</td>
-                                        <td className="border border-gray-400 p-2 text-center">Gedong</td>
-                                        <td className="border border-gray-400 p-2 text-center">G</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">h</td>
-                                        <td className="border border-gray-400 p-2 text-center">e</td>
-                                        <td className="border border-gray-400 p-2 text-center">Y</td>
-                                        <td className="border border-gray-400 p-2 text-center">4</td>
-                                        <td className="border border-gray-400 p-2 text-center">Pangan</td>
-                                        <td className="border border-gray-400 p-2 text-center">e</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">i</td>
-                                        <td className="border border-gray-400 p-2 text-center">g</td>
-                                        <td className="border border-gray-400 p-2 text-center">w</td>
-                                        <td className="border border-gray-400 p-2 text-center">Kosong</td>
-                                        <td className="border border-gray-400 p-2 text-center">s</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">n</td>
-                                        <td className="border border-gray-400 p-2 text-center">i</td>
-                                        <td className="border border-gray-400 p-2 text-center">o</td>
-                                        <td className="border border-gray-400 p-2 text-center"></td>
-                                        <td className="border border-gray-400 p-2 text-center">u</td>
-                                    </tr>
-                                    <tr>
-                                        <td className="border border-gray-400 p-2 text-center">g</td>
-                                        <td className="border border-gray-400 p-2 text-center">n</td>
-                                        <td className="border border-gray-400 p-2 text-center"></td>
-                                        <td className="border border-gray-400 p-2 text-center"></td>
-                                        <td className="border border-gray-400 p-2 text-center">n</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
                     </div>
 
                     {/* Kolom Ketiga - Jam Naas, Hitungan, dan Sesaji */}
@@ -407,28 +348,28 @@ export default function PasaranPage() {
 
                     {/* Posisi/Kedudukan Naga Tahun */}
                     <div>
-                        <h3 className="text-center font-bold mb-3 bg-gray-100 p-2 border border-gray-400">POSISI / KEDUDUKAN NAGA TAHUN</h3>
+                        <h3 className="text-center font-bold mb-3 bg-gray-100 p-2 border border-gray-400">POSISI / KEDUDUKAN<br/>NAGA TAHUN</h3>
                         <p className="text-sm mb-3 text-center">(Tiga Bulan Sekali Ganti)</p>
                         <table className="w-full border-collapse border border-gray-400 text-sm mb-4">
                             <thead>
                                 <tr className="bg-gray-100">
                                     <th className="border border-gray-400 p-2">BULAN</th>
-                                    <th className="border border-gray-400 p-2">POSISI/KEDUDUKAN</th>
+                                    <th className="border border-gray-400 p-2">POSISI / KEDUDUKAN</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr><td className="border border-gray-400 p-2">Suro</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Sapar</td><td className="border border-gray-400 p-2">Timur / Wetan</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Mulud</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Bakda Mulut</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Jumadil Awal</td><td className="border border-gray-400 p-2">Selatan / Kidul</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Jumadil Akhir</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Redjeb</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Ruwah</td><td className="border border-gray-400 p-2">Barat / Kulon</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Poso</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Syawal</td><td className="border border-gray-400 p-2"></td></tr>
-                                <tr><td className="border border-gray-400 p-2">Selo</td><td className="border border-gray-400 p-2">Utara / Lor</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Besar</td><td className="border border-gray-400 p-2"></td></tr>
+                                <tr><td className="border border-gray-400 p-2">Suro</td><td className="border border-gray-400 p-2 bg-yellow-50 text-center" rowSpan={3}>Timur / Wetan</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Sapar</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Mulud</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Bakda Mulut</td><td className="border border-gray-400 p-2 bg-red-50 text-center" rowSpan={3}>Selatan / Kidul</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Jumadil Awal</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Jumadil Akhir</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Redjeb</td><td className="border border-gray-400 p-2 bg-cyan-50 text-center" rowSpan={3}>Barat / Kulon</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Ruwah</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Poso</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Syawal</td><td className="border border-gray-400 p-2 bg-green-50 text-center" rowSpan={3}>Utara / Lor</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Selo</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Besar</td></tr>
                             </tbody>
                         </table>
                     </div>

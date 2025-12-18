@@ -27,7 +27,7 @@ export default function FAQPage() {
             questions: [
                 {
                     q: 'Siapa Romo Herucokro Semono?',
-                    a: 'Romo M. Semono Sastrohadidjojo (Romo Herucokro Semono) lahir tahun 1900 dan wafat 3 Maret 1981. Beliau adalah sosok yang Mijil pada 13 malem 14 November 1955 setelah menjalani laku selama 41 tahun (1914-1955). Beliau memberikan Laku Kasampurnan kepada siapapun yang menghendaki.'
+                    a: 'Romo Semono Sastrohadidjojo (Romo Herucokro Semono) lahir tahun 1900 dan wafat 3 Maret 1981. Beliau adalah sosok yang Mijil pada 13 malem 14 November 1955 setelah menjalani laku selama 41 tahun (1914-1955). Beliau memberikan Laku Kasampurnan kepada siapapun yang menghendaki.'
                 },
                 {
                     q: 'Apa yang dimaksud dengan "Mijil"?',

@@ -45,10 +45,10 @@ export default function Home() {
 
     const pancaGaib = [
         { title: 'Kunci', desc: 'Sarana untuk mengenal Hidup dalam diri kita', icon: '🔑' },
-        { title: 'Asmo', desc: 'Nama untuk Hidup kita', icon: '✨' },
+        { title: 'Paweling', desc: 'Manunggal dengan Yang Maha Esa', icon: '🕊️' },
         { title: 'Mijil', desc: 'Menyatukan Raga dengan Hidup', icon: '🌟' },
         { title: 'Singkir', desc: 'Menipiskan "AKU" dalam diri', icon: '🌊' },
-        { title: 'Paweling', desc: 'Manunggal dengan Yang Maha Esa', icon: '🕊️' },
+        { title: 'Asmo', desc: 'Nama untuk Hidup kita', icon: '✨' },  
     ]
 
     const lakuPangumbah = [
@@ -93,7 +93,7 @@ export default function Home() {
                             <div className="prose prose-lg">
                                 <p className="text-xl text-gray-700 leading-relaxed mb-6">
                                     Paguyuban Penghayat Kapribaden adalah wadah yang <strong>SAH</strong> bagi semua Putro Romo dimanapun berada,
-                                    untuk melestarikan Panca Gaib dan wulang wuruk Romo M. Semono Sastrohadidjojo (Romo Herucokro Semono).
+                                    untuk melestarikan Panca Gaib dan wulang wuruk Romo Semono Sastrohadidjojo (Romo Herucokro Semono).
                                 </p>
                                 <p className="text-lg text-gray-600 leading-relaxed">
                                     Kapribaden didirikan atas dasar Sabdho ROMO pada tanggal 29 April 1978, yang terkenal dengan
