@@ -23,7 +23,7 @@ export default function BukuHidupBahagiaPage() {
                 <h2>Pendahuluan</h2>
                 <div className="prose">
                     <p>
-                        Buku ini, isinya bukan merupakan pedoman atau patokan mati. Artinya, siapapun yang berminat, mencapai kebahagiaan hidup sejati di dunia ini, dan ingin kalau saatnya tiba, bisa mencapai "Kasampurnan Jati", lakunya tidak harus, bahkan tidak benar, kalau berpedoman atau berpatokan pada isi buku ini (dijadikan semacam patokan, apalagi dogma).
+                        Buku ini, isinya bukan merupakan pedoman atau patokan mati. Artinya, siapapun yang berminat, mencapai kebahagiaan hidup sejati di dunia ini, dan ingin kalau saatnya tiba, bisa mencapai &quot;Kasampurnan Jati&quot;, lakunya tidak harus, bahkan tidak benar, kalau berpedoman atau berpatokan pada isi buku ini (dijadikan semacam patokan, apalagi dogma).
                     </p>
                     <p>
                         Buku ini isinya hanya memberikan petunjuk, bagaimana seseorang bisa berguru pada Guru Sejati-nya sendiri, yaitu Hidupnya sendiri, atau Rokh-nya sendiri (His or Her own Soul).
@@ -51,7 +51,7 @@ export default function BukuHidupBahagiaPage() {
                         Kalau kita menjalani kehidupan dan penghidupan di dunia ini mengikuti jalannya Hidup, maka kita akan menjalani kehidupan dan penghidupan kita dengan diliputi selalu Rasa Bahagia yang sejati.
                     </p>
                     <p>
-                        Selain itu, "perjalanan hidup" kita, tidak akan menyimpang dari lingkaran Hidup itu sendiri (the life cycle). Artinya, kita tidak membawa Sang Hidup untuk menyimpang dari "perjalanan" yang seharusnya ditempuh, yaitu dari Tuhan, lalu berada di dunia dengan raganya, kemudian lepas dari raganya, dan langsung bisa kembali ke asalnya, yaitu Tuhan Yang Maha Esa. Tanpa harus menunggu jutaan tahun.
+                        Selain itu, &quot;perjalanan hidup&quot; kita, tidak akan menyimpang dari lingkaran Hidup itu sendiri (the life cycle). Artinya, kita tidak membawa Sang Hidup untuk menyimpang dari &quot;perjalanan&quot; yang seharusnya ditempuh, yaitu dari Tuhan, lalu berada di dunia dengan raganya, kemudian lepas dari raganya, dan langsung bisa kembali ke asalnya, yaitu Tuhan Yang Maha Esa. Tanpa harus menunggu jutaan tahun.
                     </p>
                 </div>
             </div>
@@ -96,13 +96,13 @@ export default function BukuHidupBahagiaPage() {
                 <h2>Sumber Penulisan</h2>
                 <div className="prose">
                     <p>
-                        Buku ini disusun, atas dasar seringnya Penulis "ngangsu" (menimba) dari sumbernya, yaitu Romo Herucokro Semono. Rata rata hampir sekali setiap seminggu, selama bertahun-tahun, selalu "sowan" (menghadap) untuk menimba "pangerten" (pengertian) tentang Laku Kasampurnan ini. Tentu saja ditambah pengalaman menghayati dan mengamalkan laku ini puluhan tahun dan pengalaman dalam mengamati dan momong ribuan orang yang sama sama menghayati laku ini (disebut "kadhang").
+                        Buku ini disusun, atas dasar seringnya Penulis &quot;ngangsu&quot; (menimba) dari sumbernya, yaitu Romo Herucokro Semono. Rata rata hampir sekali setiap seminggu, selama bertahun-tahun, selalu &quot;sowan&quot; (menghadap) untuk menimba &quot;pangerten&quot; (pengertian) tentang Laku Kasampurnan ini. Tentu saja ditambah pengalaman menghayati dan mengamalkan laku ini puluhan tahun dan pengalaman dalam mengamati dan momong ribuan orang yang sama sama menghayati laku ini (disebut &quot;kadhang&quot;).
                     </p>
                     <p>
-                        Jadi, kalau ada "kadhang" yang berpendapat lain, tentu saja wajar, dan itu merupakan hak-nya. Lebih lebih, kalau yang dikemukakan adalah pengalaman pribadinya. Maka Penulis berusaha, menulis buku ini secara umum, tanpa memasukkan pengalaman yang bersifat terlalu pribadi.
+                        Jadi, kalau ada &quot;kadhang&quot; yang berpendapat lain, tentu saja wajar, dan itu merupakan hak-nya. Lebih lebih, kalau yang dikemukakan adalah pengalaman pribadinya. Maka Penulis berusaha, menulis buku ini secara umum, tanpa memasukkan pengalaman yang bersifat terlalu pribadi.
                     </p>
                     <p>
-                        Demikian pula, "dawuh" dan "wulang wuruk" ("ajaran") dari Romo Herucokro Semono yang disampaikan di sini, yang bersifat umum. Bukan dawuh yang bersifat untuk pribadi Penulis.
+                        Demikian pula, &quot;dawuh&quot; dan &quot;wulang wuruk&quot; (&quot;ajaran&quot;) dari Romo Herucokro Semono yang disampaikan di sini, yang bersifat umum. Bukan dawuh yang bersifat untuk pribadi Penulis.
                     </p>
                 </div>
             </div>
@@ -113,7 +113,7 @@ export default function BukuHidupBahagiaPage() {
                 <div className="prose">
                     <div className="bg-white p-6 rounded-lg border-l-4 border-kapribaden-purple-700 mb-4">
                         <p className="text-lg italic text-kapribaden-purple-800">
-                            "Sanajan banyu kabeh segoro dhadhi mangsi, ora cukup kanggo nulis kabeh dawuh"
+                            &quot;Sanajan banyu kabeh segoro dhadhi mangsi, ora cukup kanggo nulis kabeh dawuh&quot;
                         </p>
                         <p className="text-sm text-gray-600 mt-2">
                             (Sekalipun lautan berubah jadi tinta, tidak cukup untuk menuliskan seluruhnya)

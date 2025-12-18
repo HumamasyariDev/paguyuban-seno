@@ -59,16 +59,16 @@ export default function RomoPage() {
                             <h2>Kelahiran dan Masa Kecil</h2>
                             <div className="prose">
                                 <p>
-                                    Sebelum tahun 1900, seorang isteri "padhemi" (isteri resmi), dibuang dalam arti diberikan kepada seseorang yang dinilai berjasa.
+                                    Sebelum tahun 1900, seorang isteri &quot;padhemi&quot; (isteri resmi), dibuang dalam arti diberikan kepada seseorang yang dinilai berjasa.
                                 </p>
                                 <p>
-                                    Itu karena desakan seorang "selir" yang sangat dicintainya. Hal demikian, tidak jarang terjadi pada jaman itu.
+                                    Itu karena desakan seorang &quot;selir&quot; yang sangat dicintainya. Hal demikian, tidak jarang terjadi pada jaman itu.
                                 </p>
                                 <p>
-                                    Isteri "priyagung" itu bernama Dewi Nawangwulan. Kepergiannya, disertai seorang dayang (emban), bernama Rantamsari.
+                                    Isteri &quot;priyagung&quot; itu bernama Dewi Nawangwulan. Kepergiannya, disertai seorang dayang (emban), bernama Rantamsari.
                                 </p>
                                 <p>
-                                    Dewi Nawangwulan, dibuang ("dikhendangake") dan diberikan kepada Ki Kasandikromo, yang sering juga disebut Ki Kasan Kesambi,
+                                    Dewi Nawangwulan, dibuang (&quot;dikhendangake&quot;) dan diberikan kepada Ki Kasandikromo, yang sering juga disebut Ki Kasan Kesambi,
                                     seorang tokoh spiritual pada jamannya, yang berdiam di desa Kalinongko. Gunung Damar, Kecamatan Loano. Kabupaten Purworejo, Jawa Tengah.
                                 </p>
                                 <p>
@@ -77,7 +77,7 @@ export default function RomoPage() {
                                 </p>
                                 <p>
                                     Ki Kasandikromo, tidak pernah mau menggangap, apalagi memperlakukan Dewi Nawangwulan sebagai isterinya. Tetap dianggap dan diperlakukan
-                                    sebagai "ratu"-nya. Demikian pula isterinya, Nyi Kasandhikromo.
+                                    sebagai &quot;ratu&quot;-nya. Demikian pula isterinya, Nyi Kasandhikromo.
                                 </p>
                             </div>
                         </div>
@@ -117,7 +117,7 @@ export default function RomoPage() {
                                     kemenakan Nyi Kasan. Dalam kelelapan tidurnya, kain yang dipakai tersingkap, jadi tubuhnya kelihatan terbuka.
                                 </p>
                                 <p>
-                                    Pemuda Semono, melihat itu "Mengkorok" (Berdiri bulu di tubuhnya). Semono lalu merenung. Mempertanyakan, apa sebenarnya yang
+                                    Pemuda Semono, melihat itu &quot;Mengkorok&quot; (Berdiri bulu di tubuhnya). Semono lalu merenung. Mempertanyakan, apa sebenarnya yang
                                     menggerakan bulu-bulu tubuhnya itu? Renungan demi renungan, tidak menemukan jawaban.
                                 </p>
                                 <p>
@@ -137,11 +137,11 @@ export default function RomoPage() {
                                     kedua rumpun bambu itu.
                                 </p>
                                 <p>
-                                    Semono bertapa selama 3 tahun (1914-1917). Hasilnya mendapat "cangkok Wijoyo Kusumo", berbentuk seperti bunga kering, berwarna coklat
+                                    Semono bertapa selama 3 tahun (1914-1917). Hasilnya mendapat &quot;cangkok Wijoyo Kusumo&quot;, berbentuk seperti bunga kering, berwarna coklat
                                     kehitaman. Kalau dimasukan ke air, akan mengembang sebesar tempatnya.
                                 </p>
                                 <p>
-                                    Semono kecewa, karena bukan itu yang dicari. Beliau mendapatkan "wangsit" (ilham), untuk melanjutkan laku sampai tahun kembar 5,
+                                    Semono kecewa, karena bukan itu yang dicari. Beliau mendapatkan &quot;wangsit&quot; (ilham), untuk melanjutkan laku sampai tahun kembar 5,
                                     dan di Timur nantinya akan dia temukan apa yang dia cari.
                                 </p>
                                 <p>
@@ -149,8 +149,8 @@ export default function RomoPage() {
                                     malam jalan. Takut dan malu kalau bertemu orang.
                                 </p>
                                 <p>
-                                    Sampai di rumah, bukannya dirayakan, tetapi malah sudah disediakan lubang ("luweng") lalu pemuda Semono oleh Ki Kasan, ditanam
-                                    ("dipendem") selama 40 hari 40 malam, hanya diberi batang gelagah untuk bernafas, dan setiap usai menanak nasi, Nyi Kasan mengepulkan
+                                    Sampai di rumah, bukannya dirayakan, tetapi malah sudah disediakan lubang (&quot;luweng&quot;) lalu pemuda Semono oleh Ki Kasan, ditanam
+                                    (&quot;dipendem&quot;) selama 40 hari 40 malam, hanya diberi batang gelagah untuk bernafas, dan setiap usai menanak nasi, Nyi Kasan mengepulkan
                                     asap nasi itu ke dalam lubang gelagah.
                                 </p>
                             </div>
@@ -204,11 +204,11 @@ export default function RomoPage() {
                         <div className="bg-gradient-to-br from-kapribaden-purple-900 to-kapribaden-purple-950 rounded-2xl p-10 border border-kapribaden-gold-500/30 shadow-2xl">
                             <p className="text-kapribaden-gold-400 text-sm font-semibold mb-4 uppercase tracking-wider">Pernyataan saat Mijil</p>
                             <p className="text-2xl md:text-3xl text-white font-light italic leading-relaxed mb-6">
-                                "Ingsun Mijil, arso nyungsang bawono balik, arso nggelar jagat anyar"
+                                &quot;Ingsun Mijil, arso nyungsang bawono balik, arso nggelar jagat anyar&quot;
                             </p>
                             <div className="border-t border-kapribaden-purple-700 pt-6">
                                 <p className="text-gray-400 leading-relaxed">
-                                    "Ingsun" (bukan aku) mijil hendak memutar-balikkan jagad (maksudnya jagat kecil, pribadi manusia, micro cosmos),
+                                    &quot;Ingsun&quot; (bukan aku) mijil hendak memutar-balikkan jagad (maksudnya jagat kecil, pribadi manusia, micro cosmos),
                                     dan hendak menggelarkan dunia baru (micro cosmos baru).
                                 </p>
                             </div>
@@ -233,7 +233,7 @@ export default function RomoPage() {
                             <div className="prose">
                                 <p>
                                     Mulai saat itu. Romo Herucokro Semono memberikan siapapun yang menghendaki (tidak ada paksaan, tidak menakut-nakuti dengan cara dan
-                                    jalan apapun) yang ingin hidup bahagia (tentrem), agar bisa mencapai "kasampurnan jati" (moksha) pada saatnya.
+                                    jalan apapun) yang ingin hidup bahagia (tentrem), agar bisa mencapai &quot;kasampurnan jati&quot; (moksha) pada saatnya.
                                 </p>
                                 <p>
                                     Romo Herucokro Semono, selanjutnya memberikan Laku Kasampurnan ini, sesudah dinas. Berlangsung sampai tahun 1960, beliau menjalani
@@ -260,7 +260,7 @@ export default function RomoPage() {
                                 </p>
                                 <div className="bg-kapribaden-purple-50 p-6 rounded-xl my-6">
                                     <p className="text-kapribaden-purple-800">
-                                        <strong>Keajaiban:</strong> Kalau beliau sedang memberikan petuah ("wulang-wuruk"), setiap orang mendengar menurut bahasanya
+                                        <strong>Keajaiban:</strong> Kalau beliau sedang memberikan petuah (&quot;wulang-wuruk&quot;), setiap orang mendengar menurut bahasanya
                                         sendiri sendiri. Yang orang Jerman mendengar belia berbicara bahasa Jerman, yang orang Inggris mendengat beliau berbahasa Inggris,
                                         sedangkan penulis mendengar beliau berbahasa Jawa.
                                     </p>
@@ -308,12 +308,12 @@ export default function RomoPage() {
                                 <div className="bg-gradient-to-br from-kapribaden-purple-50 to-kapribaden-gold-50 p-6 rounded-xl my-6 border-l-4 border-kapribaden-purple-600">
                                     <p className="text-kapribaden-purple-800">
                                         <strong>Peninggalan Beliau yang Paling Berharga:</strong><br />
-                                        Sarana sarana Gaib bagi mereka yang ingin hidup bahagia (tentrem) agar bisa menjalani dan mencapai "kasampurnan jati" pada saatnya
+                                        Sarana sarana Gaib bagi mereka yang ingin hidup bahagia (tentrem) agar bisa menjalani dan mencapai &quot;kasampurnan jati&quot; pada saatnya
                                         masing-masing.
                                     </p>
                                 </div>
                                 <p>
-                                    Tinggalan beliau yang terakhir yang sampai sekarang, dipelihara ("dhipepetri") dan dilestarikan oleh putro-putronya. Dilestarikan,
+                                    Tinggalan beliau yang terakhir yang sampai sekarang, dipelihara (&quot;dhipepetri&quot;) dan dilestarikan oleh putro-putronya. Dilestarikan,
                                     dalam arti tetap dihayati dan diamalkan dan diberikan kepada siapa saja yang menghendaki, tanpa memandang perbedaan apapun yang ada
                                     pada manusianya. Jadi sifatnya universal.
                                 </p>

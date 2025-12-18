@@ -101,7 +101,7 @@ export default function PasaranPage() {
                                     <span className="text-kapribaden-purple-700 font-bold">8</span>
                                 </div>
                                 <div className="flex justify-between p-3 bg-white rounded-lg shadow-sm border border-gray-200">
-                                    <span className="font-semibold">Jum'at</span>
+                                    <span className="font-semibold">Jum&apos;at</span>
                                     <span className="text-kapribaden-purple-700 font-bold">6</span>
                                 </div>
                                 <div className="flex justify-between p-3 bg-white rounded-lg shadow-sm border border-gray-200">
@@ -335,7 +335,7 @@ export default function PasaranPage() {
                                         <td className="border border-gray-400 p-1 text-xs">Antara jam 10 sampai jam 11<br/>Antara jam 15 sampai jam 16</td>
                                     </tr>
                                     <tr>
-                                        <td className="border border-gray-400 p-1">Jum'at</td>
+                                        <td className="border border-gray-400 p-1">Jum&apos;at</td>
                                         <td className="border border-gray-400 p-1 text-xs">Antara jam 8 sampai jam 9<br/>Antara jam 13 sampai jam 14</td>
                                     </tr>
                                     <tr>
@@ -368,7 +368,7 @@ export default function PasaranPage() {
                         <div className="border border-gray-400 p-3 bg-gray-50">
                             <h4 className="font-bold text-sm mb-2 text-center">SESAJI</h4>
                             <p className="text-xs">Cuwek anyar, lawe, rokok cerutu, kembang takiran, endok, kolopo karo gulo jawa.</p>
-                            <p className="text-xs mt-2">Sate sak sujen, ngllon, suri, golek'an, gedang raja siji, jajan, beras sak jumput, buceng citik.</p>
+                            <p className="text-xs mt-2">Sate sak sujen, ngllon, suri, golek&apos;an, gedang raja siji, jajan, beras sak jumput, buceng citik.</p>
                         </div>
                     </div>
                 </div>
@@ -391,13 +391,13 @@ export default function PasaranPage() {
                             <tbody>
                                 <tr><td className="border border-gray-400 p-2">Suro</td><td className="border border-gray-400 p-2">Rabu Pahing</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Sapar</td><td className="border border-gray-400 p-2">Kamis Pon</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Mulud</td><td className="border border-gray-400 p-2">Jum'at Wage</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Mulud</td><td className="border border-gray-400 p-2">Jum&apos;at Wage</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Bakda Mulut</td><td className="border border-gray-400 p-2">Sabtu Kliwon</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Jumadil Awal</td><td className="border border-gray-400 p-2">Senin Kliwon</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Jumadil Akhir</td><td className="border border-gray-400 p-2">Selasa Legi</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Redjeb</td><td className="border border-gray-400 p-2">Rabu Pahing</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Ruwah</td><td className="border border-gray-400 p-2">Kamis Pon</td></tr>
-                                <tr><td className="border border-gray-400 p-2">Poso</td><td className="border border-gray-400 p-2">Jum'at Wage</td></tr>
+                                <tr><td className="border border-gray-400 p-2">Poso</td><td className="border border-gray-400 p-2">Jum&apos;at Wage</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Syawal</td><td className="border border-gray-400 p-2">Sabtu Kliwon</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Selo</td><td className="border border-gray-400 p-2">Senin Kliwon</td></tr>
                                 <tr><td className="border border-gray-400 p-2">Besar</td><td className="border border-gray-400 p-2">Selasa Legi</td></tr>
@@ -454,7 +454,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2 font-bold">Senin</td><td className="border border-gray-400 p-2 font-bold">Pahing</td><td className="border border-gray-400 p-2">4 + 9 = 13</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 font-bold">Legi</td><td className="border border-gray-400 p-2">8 + 5 = 13</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 font-bold">Pahing</td><td className="border border-gray-400 p-2">8 + 9 = 17</td></tr>
-                            <tr><td className="border border-gray-400 p-2 font-bold">Jum'at</td><td className="border border-gray-400 p-2 font-bold">Pon</td><td className="border border-gray-400 p-2">6 + 7 = 13</td></tr>
+                            <tr><td className="border border-gray-400 p-2 font-bold">Jum&apos;at</td><td className="border border-gray-400 p-2 font-bold">Pon</td><td className="border border-gray-400 p-2">6 + 7 = 13</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 font-bold">Kliwon</td><td className="border border-gray-400 p-2">9 + 8 = 17</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 font-bold">Wage</td><td className="border border-gray-400 p-2">9 + 4 = 13</td></tr>
                         </tbody>
@@ -474,7 +474,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2 font-bold">Selasa</td><td className="border border-gray-400 p-2 text-center">3</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Rabu</td><td className="border border-gray-400 p-2 text-center">7</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 text-center">8</td></tr>
-                            <tr><td className="border border-gray-400 p-2 font-bold">Jum'at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
+                            <tr><td className="border border-gray-400 p-2 font-bold">Jum&apos;at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 text-center">9</td></tr>
                         </tbody>
                     </table>
@@ -536,7 +536,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2 font-bold">Selasa</td><td className="border border-gray-400 p-2 font-bold">Legi</td><td className="border border-gray-400 p-2">3 + 5 = 8</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Rabu</td><td className="border border-gray-400 p-2 font-bold">Pon</td><td className="border border-gray-400 p-2">7 + 7 = 14</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 font-bold">Pahing</td><td className="border border-gray-400 p-2">8 + 9 = 17</td></tr>
-                            <tr><td className="border border-gray-400 p-2 font-bold">Jum'at</td><td className="border border-gray-400 p-2 font-bold">Kliwon</td><td className="border border-gray-400 p-2">6 + 8 = 14</td></tr>
+                            <tr><td className="border border-gray-400 p-2 font-bold">Jum&apos;at</td><td className="border border-gray-400 p-2 font-bold">Kliwon</td><td className="border border-gray-400 p-2">6 + 8 = 14</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 font-bold">Legi</td><td className="border border-gray-400 p-2">9 + 5 = 14</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 font-bold">Kliwon</td><td className="border border-gray-400 p-2">9 + 8 = 17</td></tr>
                         </tbody>
@@ -556,7 +556,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2 font-bold">Selasa</td><td className="border border-gray-400 p-2 text-center">3</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Rabu</td><td className="border border-gray-400 p-2 text-center">7</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 text-center">8</td></tr>
-                            <tr><td className="border border-gray-400 p-2 font-bold">Jum'at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
+                            <tr><td className="border border-gray-400 p-2 font-bold">Jum&apos;at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 text-center">9</td></tr>
                         </tbody>
                     </table>
@@ -748,7 +748,7 @@ export default function PasaranPage() {
                             <p className="text-sm">7 + 5 = 12</p>
                             <p className="font-bold">Kamis Pahing</p>
                             <p className="text-sm">8 + 9 = 17</p>
-                            <p className="font-bold">Jum'at Pon</p>
+                            <p className="font-bold">Jum&apos;at Pon</p>
                             <p className="text-sm">6 + 7 = 13</p>
                             <p className="text-right font-bold">42</p>
                         </div>
@@ -758,7 +758,7 @@ export default function PasaranPage() {
                             <p className="text-sm">7 + 9 = 16</p>
                             <p className="font-bold">Kamis Pon</p>
                             <p className="text-sm">8 + 7 = 15</p>
-                            <p className="font-bold">Jum'at Wage</p>
+                            <p className="font-bold">Jum&apos;at Wage</p>
                             <p className="text-sm">6 + 4 = 10</p>
                             <p className="text-right font-bold">41</p>
                         </div>
@@ -768,7 +768,7 @@ export default function PasaranPage() {
                             <p className="text-sm">7 + 7 = 14</p>
                             <p className="font-bold">Kamis Wage</p>
                             <p className="text-sm">8 + 4 = 12</p>
-                            <p className="font-bold">Jum'at Kliwon</p>
+                            <p className="font-bold">Jum&apos;at Kliwon</p>
                             <p className="text-sm">6 + 8 = 14</p>
                             <p className="text-right font-bold">40</p>
                         </div>
@@ -778,7 +778,7 @@ export default function PasaranPage() {
                             <p className="text-sm">7 + 4 = 11</p>
                             <p className="font-bold">Kamis Kliwon</p>
                             <p className="text-sm">8 + 8 = 16</p>
-                            <p className="font-bold">Jum'at Legi</p>
+                            <p className="font-bold">Jum&apos;at Legi</p>
                             <p className="text-sm">6 + 5 = 11</p>
                             <p className="text-right font-bold">38</p>
                         </div>
@@ -788,7 +788,7 @@ export default function PasaranPage() {
                             <p className="text-sm">7 + 8 = 15</p>
                             <p className="font-bold">Kamis Legi</p>
                             <p className="text-sm">8 + 5 = 13</p>
-                            <p className="font-bold">Jum'at Pahing</p>
+                            <p className="font-bold">Jum&apos;at Pahing</p>
                             <p className="text-sm">6 + 9 = 15</p>
                             <p className="text-right font-bold">43</p>
                         </div>
@@ -799,7 +799,7 @@ export default function PasaranPage() {
                         <div className="border border-gray-400 p-2 bg-white">
                             <p className="font-bold">Kamis Legi</p>
                             <p className="text-sm">8 + 5 = 13</p>
-                            <p className="font-bold">Jum'at Pahing</p>
+                            <p className="font-bold">Jum&apos;at Pahing</p>
                             <p className="text-sm">6 + 9 = 15</p>
                             <p className="font-bold">Sabtu Pon</p>
                             <p className="text-sm">9 + 7 = 16</p>
@@ -809,7 +809,7 @@ export default function PasaranPage() {
                         <div className="border border-gray-400 p-2 bg-white">
                             <p className="font-bold">Kamis Pahing</p>
                             <p className="text-sm">8 + 9 = 17</p>
-                            <p className="font-bold">Jum'at Pon</p>
+                            <p className="font-bold">Jum&apos;at Pon</p>
                             <p className="text-sm">6 + 7 = 13</p>
                             <p className="font-bold">Sabtu Wage</p>
                             <p className="text-sm">9 + 4 = 13</p>
@@ -819,7 +819,7 @@ export default function PasaranPage() {
                         <div className="border border-gray-400 p-2 bg-white">
                             <p className="font-bold">Kamis Pon</p>
                             <p className="text-sm">8 + 7 = 15</p>
-                            <p className="font-bold">Jum'at Wage</p>
+                            <p className="font-bold">Jum&apos;at Wage</p>
                             <p className="text-sm">6 + 4 = 10</p>
                             <p className="font-bold">Sabtu Kliwon</p>
                             <p className="text-sm">9 + 8 = 17</p>
@@ -843,7 +843,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2 font-bold">Selasa</td><td className="border border-gray-400 p-2 text-center">3</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Rabu</td><td className="border border-gray-400 p-2 text-center">7</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Kamis</td><td className="border border-gray-400 p-2 text-center">8</td></tr>
-                            <tr><td className="border border-gray-400 p-2 font-bold">Jum'at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
+                            <tr><td className="border border-gray-400 p-2 font-bold">Jum&apos;at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
                             <tr><td className="border border-gray-400 p-2 font-bold">Sabtu</td><td className="border border-gray-400 p-2 text-center">9</td></tr>
                         </tbody>
                     </table>
@@ -868,7 +868,7 @@ export default function PasaranPage() {
                 {/* Tabel tambahan */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
                     <div className="border border-gray-400 p-4 bg-white">
-                        <p className="font-bold mb-2">Jum'at Legi</p>
+                        <p className="font-bold mb-2">Jum&apos;at Legi</p>
                         <p className="text-sm">6 + 5 = 11</p>
                         <p className="font-bold">Sabtu Pahing</p>
                         <p className="text-sm">9 + 9 = 18</p>
@@ -888,7 +888,7 @@ export default function PasaranPage() {
                     </div>
                     
                     <div className="border border-gray-400 p-4 bg-white">
-                        <p className="font-bold mb-2">Jum'at Wage</p>
+                        <p className="font-bold mb-2">Jum&apos;at Wage</p>
                         <p className="text-sm">6 + 4 = 10</p>
                         <p className="font-bold">Sabtu Kliwon</p>
                         <p className="text-sm">9 + 8 = 17</p>
@@ -908,7 +908,7 @@ export default function PasaranPage() {
                     </div>
                     
                     <div className="border border-gray-400 p-4 bg-white">
-                        <p className="font-bold mb-2">Jum'at Kliwon</p>
+                        <p className="font-bold mb-2">Jum&apos;at Kliwon</p>
                         <p className="text-sm">6 + 8 = 14</p>
                         <p className="font-bold">Sabtu Legi</p>
                         <p className="text-sm">9 + 5 = 14</p>
@@ -928,7 +928,7 @@ export default function PasaranPage() {
                     </div>
                     
                     <div className="border border-gray-400 p-4 bg-white">
-                        <p className="font-bold mb-2">Jum'at Pahing</p>
+                        <p className="font-bold mb-2">Jum&apos;at Pahing</p>
                         <p className="text-sm">6 + 9 = 15</p>
                         <p className="font-bold">Sabtu Pon</p>
                         <p className="text-sm">9 + 7 = 16</p>
@@ -948,7 +948,7 @@ export default function PasaranPage() {
                     </div>
                     
                     <div className="border border-gray-400 p-4 bg-white">
-                        <p className="font-bold bg-red-100">Jum'at Pon</p>
+                        <p className="font-bold bg-red-100">Jum&apos;at Pon</p>
                         <p className="text-sm">6 + 7 = 13</p>
                         <p className="font-bold bg-red-100">Sabtu Wage</p>
                         <p className="text-sm">9 + 4 = 13</p>
@@ -1070,7 +1070,7 @@ export default function PasaranPage() {
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Rabu Pahing</p>
                             <p><span className="font-semibold">Sedang</span> : Minggu Legi</p>
-                            <p><span className="font-semibold">Besar</span> : Jum'at Legi</p>
+                            <p><span className="font-semibold">Besar</span> : Jum&apos;at Legi</p>
                         </div>
                     </div>
 
@@ -1088,7 +1088,7 @@ export default function PasaranPage() {
                     <div className="border-2 border-gray-400 p-3 bg-red-100">
                         <h3 className="font-bold text-center mb-2">Rabu Legi : 7 + 5 = 12</h3>
                         <div className="text-sm space-y-1">
-                            <p><span className="font-semibold">Apes</span> : Jum'at Pon</p>
+                            <p><span className="font-semibold">Apes</span> : Jum&apos;at Pon</p>
                             <p><span className="font-semibold">Sedang</span> : Selasa Pahing</p>
                             <p><span className="font-semibold">Besar</span> : Minggu Pahing</p>
                         </div>
@@ -1108,7 +1108,7 @@ export default function PasaranPage() {
                     <div className="border-2 border-gray-400 p-3 bg-red-100">
                         <h3 className="font-bold text-center mb-2">Rabu Pahing : 7 + 9 = 16</h3>
                         <div className="text-sm space-y-1">
-                            <p><span className="font-semibold">Apes</span> : Jum'at Wage</p>
+                            <p><span className="font-semibold">Apes</span> : Jum&apos;at Wage</p>
                             <p><span className="font-semibold">Sedang</span> : Selasa Pon</p>
                             <p><span className="font-semibold">Besar</span> : Kamis Pahing</p>
                         </div>
@@ -1128,7 +1128,7 @@ export default function PasaranPage() {
                     <div className="border-2 border-gray-400 p-3 bg-red-100">
                         <h3 className="font-bold text-center mb-2">Rabu Pon : 7 + 7 = 14</h3>
                         <div className="text-sm space-y-1">
-                            <p><span className="font-semibold">Apes</span> : Jum'at Pon</p>
+                            <p><span className="font-semibold">Apes</span> : Jum&apos;at Pon</p>
                             <p><span className="font-semibold">Sedang</span> : Selasa Wage</p>
                             <p><span className="font-semibold">Besar</span> : Selasa Legi</p>
                         </div>
@@ -1148,7 +1148,7 @@ export default function PasaranPage() {
                     <div className="border-2 border-gray-400 p-3 bg-red-100">
                         <h3 className="font-bold text-center mb-2">Rabu Wage : 7 + 4 = 11</h3>
                         <div className="text-sm space-y-1">
-                            <p><span className="font-semibold">Apes</span> : Jum'at Legi</p>
+                            <p><span className="font-semibold">Apes</span> : Jum&apos;at Legi</p>
                             <p><span className="font-semibold">Sedang</span> : Sabtu Kliwon</p>
                             <p><span className="font-semibold">Besar</span> : Kamis Kliwon</p>
                         </div>
@@ -1160,7 +1160,7 @@ export default function PasaranPage() {
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Kamis Pahing</p>
                             <p><span className="font-semibold">Sedang</span> : Senin Legi</p>
-                            <p><span className="font-semibold">Besar</span> : Jum'at Kliwon</p>
+                            <p><span className="font-semibold">Besar</span> : Jum&apos;at Kliwon</p>
                         </div>
                     </div>
 
@@ -1184,9 +1184,9 @@ export default function PasaranPage() {
                         </div>
                     </div>
 
-                    {/* Jum'at Legi */}
+                    {/* Jum&apos;at Legi */}
                     <div className="border-2 border-gray-400 p-3 bg-green-200">
-                        <h3 className="font-bold text-center mb-2">Jum'at Legi : 6 + 5 = 11</h3>
+                        <h3 className="font-bold text-center mb-2">Jum&apos;at Legi : 6 + 5 = 11</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Minggu Pon</p>
                             <p><span className="font-semibold">Sedang</span> : Kamis Pahing</p>
@@ -1199,18 +1199,18 @@ export default function PasaranPage() {
                         <h3 className="font-bold text-center mb-2">Sabtu Legi : 9 + 5 = 14</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Senin Pon</p>
-                            <p><span className="font-semibold">Sedang</span> : Jum'at Pahing</p>
-                            <p><span className="font-semibold">Besar</span> : Jum'at Wage</p>
+                            <p><span className="font-semibold">Sedang</span> : Jum&apos;at Pahing</p>
+                            <p><span className="font-semibold">Besar</span> : Jum&apos;at Wage</p>
                         </div>
                     </div>
 
-                    {/* Jum'at Pahing */}
+                    {/* Jum&apos;at Pahing */}
                     <div className="border-2 border-gray-400 p-3 bg-green-200">
-                        <h3 className="font-bold text-center mb-2">Jum'at Pahing : 6 + 9 = 15</h3>
+                        <h3 className="font-bold text-center mb-2">Jum&apos;at Pahing : 6 + 9 = 15</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Minggu Wage</p>
                             <p><span className="font-semibold">Sedang</span> : Kamis Pon</p>
-                            <p><span className="font-semibold">Besar</span> : Jum'at Legi</p>
+                            <p><span className="font-semibold">Besar</span> : Jum&apos;at Legi</p>
                         </div>
                     </div>
 
@@ -1219,14 +1219,14 @@ export default function PasaranPage() {
                         <h3 className="font-bold text-center mb-2">Sabtu Pahing : 9 + 9 = 18</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Senin Wage</p>
-                            <p><span className="font-semibold">Sedang</span> : Jum'at Pon</p>
+                            <p><span className="font-semibold">Sedang</span> : Jum&apos;at Pon</p>
                             <p><span className="font-semibold">Besar</span> : Selasa Wage</p>
                         </div>
                     </div>
 
-                    {/* Jum'at Pon */}
+                    {/* Jum&apos;at Pon */}
                     <div className="border-2 border-gray-400 p-3 bg-green-200">
-                        <h3 className="font-bold text-center mb-2">Jum'at Pon : 6 + 7 = 13</h3>
+                        <h3 className="font-bold text-center mb-2">Jum&apos;at Pon : 6 + 7 = 13</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Minggu Kliwon</p>
                             <p><span className="font-semibold">Sedang</span> : Kamis Wage</p>
@@ -1239,14 +1239,14 @@ export default function PasaranPage() {
                         <h3 className="font-bold text-center mb-2">Sabtu Pon : 9 + 7 = 16</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Senin Kliwon</p>
-                            <p><span className="font-semibold">Sedang</span> : Jum'at Wage</p>
+                            <p><span className="font-semibold">Sedang</span> : Jum&apos;at Wage</p>
                             <p><span className="font-semibold">Besar</span> : Minggu Pon</p>
                         </div>
                     </div>
 
-                    {/* Jum'at Wage */}
+                    {/* Jum&apos;at Wage */}
                     <div className="border-2 border-gray-400 p-3 bg-green-200">
-                        <h3 className="font-bold text-center mb-2">Jum'at Wage : 6 + 4 = 10</h3>
+                        <h3 className="font-bold text-center mb-2">Jum&apos;at Wage : 6 + 4 = 10</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Minggu Legi</p>
                             <p><span className="font-semibold">Sedang</span> : Kamis Kliwon</p>
@@ -1259,14 +1259,14 @@ export default function PasaranPage() {
                         <h3 className="font-bold text-center mb-2">Sabtu Wage : 9 + 4 = 13</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Senin Legi</p>
-                            <p><span className="font-semibold">Sedang</span> : Jum'at Kliwon</p>
+                            <p><span className="font-semibold">Sedang</span> : Jum&apos;at Kliwon</p>
                             <p><span className="font-semibold">Besar</span> : Kamis Legi</p>
                         </div>
                     </div>
 
-                    {/* Jum'at Kliwon */}
+                    {/* Jum&apos;at Kliwon */}
                     <div className="border-2 border-gray-400 p-3 bg-green-200">
-                        <h3 className="font-bold text-center mb-2">Jum'at Kliwon : 6 + 8 = 14</h3>
+                        <h3 className="font-bold text-center mb-2">Jum&apos;at Kliwon : 6 + 8 = 14</h3>
                         <div className="text-sm space-y-1">
                             <p><span className="font-semibold">Apes</span> : Minggu Pahing</p>
                             <p><span className="font-semibold">Sedang</span> : Kamis Legi</p>
@@ -1300,7 +1300,7 @@ export default function PasaranPage() {
                             <tr><td className="border border-gray-400 p-2">Selasa</td><td className="border border-gray-400 p-2 text-center">3</td></tr>
                             <tr><td className="border border-gray-400 p-2">Rabu</td><td className="border border-gray-400 p-2 text-center">7</td></tr>
                             <tr><td className="border border-gray-400 p-2">Kamis</td><td className="border border-gray-400 p-2 text-center">8</td></tr>
-                            <tr><td className="border border-gray-400 p-2">Jum'at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
+                            <tr><td className="border border-gray-400 p-2">Jum&apos;at</td><td className="border border-gray-400 p-2 text-center">6</td></tr>
                             <tr><td className="border border-gray-400 p-2">Sabtu</td><td className="border border-gray-400 p-2 text-center">9</td></tr>
                         </tbody>
                     </table>
@@ -1572,7 +1572,7 @@ export default function PasaranPage() {
                                 <p className="font-semibold">Sapar: Kamis Pon</p>
                             </div>
                             <div className="p-3 bg-red-50 rounded border border-red-200">
-                                <p className="font-semibold">Mulud: Jum'at Wage</p>
+                                <p className="font-semibold">Mulud: Jum&apos;at Wage</p>
                             </div>
                             <div className="p-3 bg-red-50 rounded border border-red-200">
                                 <p className="font-semibold">Bakda Mulut: Sabtu Kliwon</p>
@@ -1590,7 +1590,7 @@ export default function PasaranPage() {
                                 <p className="font-semibold">Ruwah: Kamis Pon</p>
                             </div>
                             <div className="p-3 bg-red-50 rounded border border-red-200">
-                                <p className="font-semibold">Poso: Jum'at Wage</p>
+                                <p className="font-semibold">Poso: Jum&apos;at Wage</p>
                             </div>
                             <div className="p-3 bg-red-50 rounded border border-red-200">
                                 <p className="font-semibold">Syawal: Sabtu Kliwon</p>

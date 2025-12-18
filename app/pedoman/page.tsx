@@ -123,10 +123,10 @@ export default function PedomanPage() {
                     <div className="bg-kapribaden-purple-50 p-6 rounded-lg mt-6">
                         <h4 className="font-bold text-kapribaden-purple-800 mb-3">Penyuwunan:</h4>
                         <p className="italic text-gray-700">
-                            "Kulo nyuwun ……. (nama si sakit) di ngapuro luputipun, diparingi pengayoman, ketentreman, keselamatan kalian Kesehatan, jin, setan,
+                            &quot;Kulo nyuwun ……. (nama si sakit) di ngapuro luputipun, diparingi pengayoman, ketentreman, keselamatan kalian Kesehatan, jin, setan,
                             penyakit ingkang wonten dateng raganipun kulo nyuwun dipun singkiraken, dipun sirnaaken, diparingi pengadilan sak adil-adile sak
                             cepet-cepete, jin, setan, penyakit ingkang nganggu kulo nyuwun dipun singkiraken, dipun sirnaaken, diparingi pengadilan sak adil-adile
-                            sak cepet-cepete"
+                            sak cepet-cepete&quot;
                         </p>
                     </div>
 

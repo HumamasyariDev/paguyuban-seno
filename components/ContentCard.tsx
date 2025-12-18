@@ -127,7 +127,7 @@ export function QuoteCard({
             className="relative"
         >
             <div className="absolute -top-6 left-8 text-8xl text-kapribaden-gold-300 font-serif leading-none">
-                "
+                &quot;
             </div>
             
             <div className="bg-gradient-to-br from-kapribaden-purple-900 to-kapribaden-purple-950 rounded-2xl p-10 pt-12 shadow-2xl">

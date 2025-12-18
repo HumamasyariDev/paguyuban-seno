@@ -97,7 +97,7 @@ export default function Home() {
                                 </p>
                                 <p className="text-lg text-gray-600 leading-relaxed">
                                     Kapribaden didirikan atas dasar Sabdho ROMO pada tanggal 29 April 1978, yang terkenal dengan
-                                    sabdho "Honocoroko" karena ditulis memakai huruf Jawa Honocoroko, dan ini merupakan satu-satunya
+                                    sabdho &quot;Honocoroko&quot; karena ditulis memakai huruf Jawa Honocoroko, dan ini merupakan satu-satunya
                                     sabdho ROMO yang tertulis.
                                 </p>
                             </div>
@@ -226,7 +226,7 @@ export default function Home() {
                                     <div>
                                         <h3 className="text-2xl font-bold text-kapribaden-purple-800 mb-3">Kasampurnan Jati</h3>
                                         <p className="text-gray-700 leading-relaxed">
-                                            Pada akhir hayatnya bisa mencapai "Kasampurnan Jati" (Moksha), manunggal dengan Yang Maha Esa.
+                                            Pada akhir hayatnya bisa mencapai &quot;Kasampurnan Jati&quot; (Moksha), manunggal dengan Yang Maha Esa.
                                         </p>
                                     </div>
                                 </div>

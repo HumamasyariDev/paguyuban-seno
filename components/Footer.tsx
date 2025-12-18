@@ -167,7 +167,7 @@ export default function Footer() {
                         </h4>
                         <div className="bg-kapribaden-purple-900 p-6 rounded-2xl border border-kapribaden-purple-800">
                             <p className="text-kapribaden-gold-400 text-lg italic leading-relaxed">
-                                "ROMO Mangestoni, Putro-Putro Kudu Ngakoni Putro ROMO"
+                                &quot;ROMO Mangestoni, Putro-Putro Kudu Ngakoni Putro ROMO&quot;
                             </p>
                             <p className="text-gray-500 text-sm mt-3">
                                 29 April 1978 - Sejiwan, Purworejo

@@ -139,7 +139,7 @@ export default function KapribadenPage() {
                 <div className="relative max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
                     <AnimatedSection className="text-center mb-12">
                         <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">
-                            "LAKU" KAPRIBADEN
+                            &quot;LAKU&quot; KAPRIBADEN
                         </h2>
                     </AnimatedSection>
 
@@ -224,7 +224,7 @@ export default function KapribadenPage() {
                         <div className="bg-gradient-to-br from-kapribaden-purple-900 to-kapribaden-purple-950 rounded-3xl p-10 text-center mb-8">
                             <p className="text-kapribaden-gold-400 text-sm font-semibold mb-4 uppercase tracking-wider">Sabdo Tinulis - 29 April 1978</p>
                             <p className="text-2xl md:text-3xl text-white font-light italic leading-relaxed mb-4">
-                                "ROMO Mangestoni, Putro-Putro Kudu Ngakoni Putro ROMO"
+                                &quot;ROMO Mangestoni, Putro-Putro Kudu Ngakoni Putro ROMO&quot;
                             </p>
                             <p className="text-gray-400">
                                 Ditulis pada tutup kue dadar-gulung berwarna merah-putih
@@ -244,12 +244,12 @@ export default function KapribadenPage() {
                                     selalu dihitung satu.
                                 </p>
                                 <p>
-                                    Sabdo tinulis itu ditulis pada tutup kue dadar-gulung berwarna merah-putih. Penjelasan Romo: "ditulis ono tutup, kareban Putro-Putro
-                                    podo nyawang mengisor, sebab Putro-Putro isih pada nyawang menduwur. Ben podo nyawang sing urip ono ngisor kreteg".
+                                    Sabdo tinulis itu ditulis pada tutup kue dadar-gulung berwarna merah-putih. Penjelasan Romo: &quot;ditulis ono tutup, kareban Putro-Putro
+                                    podo nyawang mengisor, sebab Putro-Putro isih pada nyawang menduwur. Ben podo nyawang sing urip ono ngisor kreteg&quot;.
                                 </p>
                                 <p>
                                     Putro Putro yang sowan didawuhi memperbanyak sabda tinulis itu dan menyebar-luaskan ke semua Putro. Putro Putro yang menghadap saat
-                                    itu mohon petunjuk cara "ngakoni Putro Romo". Dan Romo ndawuhi membentuk Paguyuban yang kemudian bernama Paguyuban Penghayat Kapribaden.
+                                    itu mohon petunjuk cara &quot;ngakoni Putro Romo&quot;. Dan Romo ndawuhi membentuk Paguyuban yang kemudian bernama Paguyuban Penghayat Kapribaden.
                                 </p>
                             </div>
                         </div>
@@ -323,11 +323,11 @@ export default function KapribadenPage() {
                     <AnimatedSection>
                         <div className="bg-gradient-to-br from-kapribaden-purple-100 to-kapribaden-gold-100 rounded-3xl p-10 text-center mb-8">
                             <p className="text-xl md:text-2xl italic text-kapribaden-purple-800 mb-4 leading-relaxed">
-                                "Heh PutraningSUN sami, pro satriyo lan wanito sejati,<br />
-                                mareneo jenengsiro SUN jarwani"
+                                &quot;Heh PutraningSUN sami, pro satriyo lan wanito sejati,<br />
+                                mareneo jenengsiro SUN jarwani&quot;
                             </p>
                             <p className="text-gray-700">
-                                ("Putra - PutraKU semua, laki-laki dan perempuan kemarilah KU beritahu")
+                                (&quot;Putra - PutraKU semua, laki-laki dan perempuan kemarilah KU beritahu&quot;)
                             </p>
                         </div>
                     </AnimatedSection>
