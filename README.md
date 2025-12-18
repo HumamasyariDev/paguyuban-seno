@@ -163,3 +163,4 @@ Untuk pertanyaan atau bantuan, silakan hubungi admin Paguyuban.
 ---
 
 © 2024 Paguyuban Penghayat Kapribaden. All rights reserved.
+# paguyuban-seno
