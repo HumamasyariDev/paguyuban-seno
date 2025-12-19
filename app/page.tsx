@@ -100,6 +100,20 @@ export default function Home() {
                                     sabdho &quot;Honocoroko&quot; karena ditulis memakai huruf Jawa Honocoroko, dan ini merupakan satu-satunya
                                     sabdho ROMO yang tertulis.
                                 </p>
+                                
+                                <div className="mt-6 p-4 bg-kapribaden-purple-50 rounded-lg border border-kapribaden-purple-200">
+                                    <p className="text-lg font-semibold text-kapribaden-purple-800 mb-3">
+                                        Paguyuban Penghayat Kapribaden (Kapribaden) terdaftar pada :
+                                    </p>
+                                    <ul className="text-sm text-gray-700 space-y-1">
+                                        <li>• Terdaftar pada DEPDIKBUD R.I. : No. 1.099/F.3/N.1.1/1980</li>
+                                        <li>• Terdaftar pada DEPDAGRI sesuai UU No. 8/1985</li>
+                                        <li>• Terdaftar pada Kejaksaan Agung R.I. : No. 250 tahun 1986</li>
+                                        <li>• Tanda Pemaparan Ajaran oleh DEPDIKBUD R.I. : No. 31/F.6/F.5/1988</li>
+                                        <li>• Pengumuman Pemerintah tentang Organisasi Organisasi Kemasyarakatan yang Sah Tingkat Nasional, bernomor 324.</li>
+                                        <li>• Surat Keterangan Terdaftar di DEPDAGRI No : 29/D.III.3/III/2008.</li>
+                                    </ul>
+                                </div>
                             </div>
                         </AnimatedSection>
 
